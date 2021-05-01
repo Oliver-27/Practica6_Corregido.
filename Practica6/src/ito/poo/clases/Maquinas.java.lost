@@ -1,0 +1,7 @@
+
+Thu Apr 29 16:03:40 CDT 2021
+================================================================================
+Start of user code for method CostoTrabajo
+		float CostoTrabajo = 0F;
+		return CostoTrabajo;
+		// End of user code
